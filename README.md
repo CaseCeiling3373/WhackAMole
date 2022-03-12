@@ -1,2 +1,2 @@
-# WhackAMole
-Made by: EA-Is-Overpriced
+# Whack A Mole
+https://ea-is-overpriced.github.io/WhackAMole/
