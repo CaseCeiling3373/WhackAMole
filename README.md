@@ -1,2 +1,2 @@
 # Whack A Mole
-https://ea-is-overpriced.github.io/WhackAMole/
+https://caseceiling3373.github.io/WhackAMole/
